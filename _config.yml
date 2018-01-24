@@ -7,4 +7,4 @@ description: A small website to share my ideas and thoughts.
 
 # build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: slate
